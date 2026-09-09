@@ -59,9 +59,3 @@ packs/
 Everyone who installed your pack gets the update offered inside
 LiveSprite. Updates never touch the user's own settings (channels,
 chances, directions) - only the GIF files are refreshed.
-
-## Rules
-
-- Only submit content you made or are allowed to redistribute
-- No NSFW, no huge files, no non-GIF/PNG payloads
-- Every Pull Request is manually reviewed before merging
